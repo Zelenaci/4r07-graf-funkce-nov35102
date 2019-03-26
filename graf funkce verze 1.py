@@ -5,9 +5,9 @@ Created on Sat Mar 2 19:44:35 2019
 @author: tom11
 """
 
-
-from tkinter import 
+import tkinter as tk
 from tkinter import filedialog
+
 
 
 import pylab 
